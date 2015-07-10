@@ -5,9 +5,7 @@ https://help.github.com
 
 ### Direct tips
 To clone your GitHub repository to your local drive:
-git init
 git clone https://github.com/yourusername/yourrepository.git
 
 To update your repository:
 git pull https://github.com/yourusername/yourrepository.git
-git exit
