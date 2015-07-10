@@ -1,7 +1,7 @@
 # tip-sheets
 Tip sheets for various programming languages
 
-## This repository includes tip sheets for the following programming languages
+### This repository includes tip sheets for the following programming languages
 * R
 * Python
 
