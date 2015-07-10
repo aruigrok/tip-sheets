@@ -5,5 +5,5 @@ Tip sheets for various programming languages
 * R
 * Python
 
-I am new to python and learning R as I go so these sheets can include very basic 
-tips to more useful commands for specific analysis types.
+I am new to python and learning R as I go. 
+These sheets can include very basic tips to more useful commands for specific analysis types.
